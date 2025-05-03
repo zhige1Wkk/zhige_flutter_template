@@ -1,0 +1,12 @@
+# 这些是支持的资金平台
+
+github: # 替换为最多4个GitHub用户名，例如 [user1, user2]
+patreon: # 替换为单个Patreon用户名
+open_collective: # 替换为单个Open Collective用户名
+ko_fi: # 替换为单个Ko-fi用户名
+tidelift: # 替换为'platform/package'
+community_bridge: # 替换为单个Community Bridge项目名称，例如 cloud-foundry
+liberapay: # 替换为单个Liberapay用户名
+issuehunt: # 替换为单个IssueHunt用户名
+otechie: # 替换为单个Otechie用户名
+custom: # 替换为最多4个自定义赞助URL，例如['link1', 'link2'] 

@@ -1,0 +1,2 @@
+C:/Users/TR/AndroidStudioProjects/zhige_flutter_tempate/android/app/.cxx/RelWithDebInfo/61362f13/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/TR/AndroidStudioProjects/zhige_flutter_tempate/android/app/.cxx/RelWithDebInfo/61362f13/armeabi-v7a/CMakeFiles/rebuild_cache.dir
