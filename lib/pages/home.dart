@@ -329,9 +329,9 @@ class HomeContent extends StatelessWidget {
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(28),
           ),
-          elevation: 8,
-          shadowColor: const Color(0xFF0175C2).withOpacity(0.3),
-          backgroundColor: const Color(0xFF0175C2),
+          elevation: 0,
+          shadowColor: Colors.transparent,
+          backgroundColor: Colors.transparent,
         ),
         child: Icon(icon, size: 28, color: Colors.white),
       ),
