@@ -8,6 +8,19 @@
 
 Zhige Flutter Template 是一个高质量、易于使用的 Flutter 项目模板，旨在帮助开发者快速构建出色的跨平台应用程序。该模板采用了 Get 框架、优秀的设计模式和合理的文件结构，以确保开发者能够编写出易于维护的代码。此外，该模板还使用了 Isar 数据库，以提供卓越的性能和全平台支持。
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8287c077-bc1c-40f7-8886-7e9fd2d7603f" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/d4fd9cdb-99c7-4498-8ea3-f3f88010c2bb" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6850eaca-8db7-42b4-8440-7926cccc8301" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/c7e31018-8446-4d2f-9762-40ee4d070e03" width="100%"></td>
+  </tr>
+</table>
+
+
+
 ## 同步托管
 - GitHub: [https://github.com/zhige1Wkk/zhige_flutter_template](https://github.com/zhige1Wkk/zhige_flutter_template)
 - Gitee: [https://gitee.com/zhige1Wkk/zhige_flutter_template](https://gitee.com/zhige1Wkk/zhige_flutter_template)
